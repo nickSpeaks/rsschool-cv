@@ -5,8 +5,11 @@
 ###	Contact
 
 **Phone**: +995 595 653 001
+
 **E-mail**: andrejeu@gmail.com
+
 **Telegram**: @nickSpeaks
+
 **Discord**: @nickSpeaks (NickSpeaks#6632)
 
 ###	Summary
@@ -30,10 +33,10 @@ function multiply(a, b){
 ###	Courses
 * HTML and CSS Tuts on w3schools (in progress)
 * «JavaScript/Front-end. Stage 1» at RS Schools (in progress)
-* ![GCP](https://www.cloudskillsboost.google/public_profiles/b5e6c09d-52e5-4efc-af53-2ffbb449b53d/).
-* ![GCP @ Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/A96SCZMWEG27/).
-* ![AWS Fundamentals @ Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/T62B438T67Q8/).
-* ![Open Source @ Coursera](https://www.credly.com/badges/d29b6f5a-e5c3-4d9b-b396-27a8690852da/).
+* [GCP](https://www.cloudskillsboost.google/public_profiles/b5e6c09d-52e5-4efc-af53-2ffbb449b53d/).
+* [GCP @ Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/A96SCZMWEG27/).
+* [AWS Fundamentals @ Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/T62B438T67Q8/).
+* [Open Source @ Coursera](https://www.credly.com/badges/d29b6f5a-e5c3-4d9b-b396-27a8690852da/).
 
 ###	Languages
 * English: C2 (Cambridge English Proficiency Certificate)
