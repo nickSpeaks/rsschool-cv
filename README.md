@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nickspeaks.github.io/rsschool-cv/
